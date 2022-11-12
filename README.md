@@ -1,2 +1,2 @@
 # exercicio-pagina-finans
- Página de exercício de curso Udemy-Desenvolvimento Web
+ Página de exercício de curso Udemy-Desenvolvimento Web com Bootstrap.
